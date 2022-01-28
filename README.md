@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rajinder1993
-- 👀 I’m interested in travelling,foodish and love to play cricket
+- 👋 Hi, I’m Rajinder. I have 4 years expereince as shopify developer.I worked on various project in these years and learn new skills like html,js,css,liquid,ajax,php and javascript.
+- 👀 I’m interested in travelling, play cricket
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : krajinder916@gmail.com
